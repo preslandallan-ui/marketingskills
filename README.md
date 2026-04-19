@@ -2,6 +2,19 @@
 
 This agent has been updated for Amplify, Amplify Training and Parenta. 
 
+# Marketing Systems (Amplify and Parenta)
+
+This repository contains internal marketing workflows, AI prompts, and growth systems used across Parenta and Amplify projects.
+
+## Purpose
+
+- Funnel creation
+- Conversion optimisation
+- Campaign execution
+- AI-driven marketing workflows
+
+This is a working repository and will evolve continuously.
+
 A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the [Agent Skills spec](https://agentskills.io).
 
 Built by [Corey Haines](https://corey.co?ref=marketingskills). Need hands-on help? Check out [Conversion Factory](https://conversionfactory.co?ref=marketingskills) — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to [Swipe Files](https://swipefiles.com?ref=marketingskills). Want an autonomous AI agent that uses these skills to be your CMO? Try [Magister](https://magistermarketing.com?ref=marketingskills).
